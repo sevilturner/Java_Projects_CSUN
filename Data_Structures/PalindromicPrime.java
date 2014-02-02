@@ -1,4 +1,10 @@
 /*
+* Project #1: Palindromic Prime Exercises
+* File: Exercise1.java
+* Programmer: Sevil Turner
+* Date: Jan 31 2014
+* Description: n/a
+*
 */
 
 public class PalindromicPrime {
